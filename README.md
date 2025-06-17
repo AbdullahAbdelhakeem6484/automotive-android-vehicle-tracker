@@ -11,7 +11,31 @@
 
 Vehicle Tracker is a modern Android Automotive application built with **Jetpack Compose** and **Material 3** design principles. The app provides an intuitive interface for tracking vehicle journeys, managing trip data, and monitoring driving statistics with real-time interactive features.
 
-**🎥 [Demo Video Available - 10 Minutes Full Presentation]**
+## 📸 **App Screenshots**
+
+### **Dashboard - Interactive Statistics**
+![Vehicle Tracker Dashboard](assets/img/VehcileTracker_Main%20Window.png)
+*Main dashboard with interactive statistics, Egyptian location data, and quick action buttons*
+
+### **Live Tracking - Egyptian Routes**
+![Vehicle Tracker Live Tracking](assets/img/VehicleTracker_LiveTrack.png)
+*Real-time tracking with Smart Village to Cairo route visualization*
+
+### **Trip History - Search & Filter**
+![Vehicle Tracker Trip History](assets/img/VehicleTracker_TripHistory.png)
+*Advanced trip management with Egyptian locations and search functionality*
+
+### **Settings - Professional Configuration**
+![Vehicle Tracker Settings](assets/img/VehicleTrackerSetting.png)
+*Organized settings with dark mode, GPS accuracy, and user preferences*
+
+## 🎥 **Demo Video**
+
+> **Coming Soon**: Full demonstration video showcasing all features, Egyptian location integration, and Android Automotive optimization
+
+[![Video Placeholder](https://img.shields.io/badge/Demo%20Video-Coming%20Soon-blue?style=for-the-badge&logo=youtube)](https://github.com/yourusername/VehicleTracker)
+
+*Video will cover: Dashboard interactions, Live tracking simulation, Trip search functionality, Settings configuration, and Google Play Store publishing process*
 
 ---
 
@@ -175,11 +199,13 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home
 
 ## 📱 **Screen Previews**
 
-- **Dashboard**: Professional statistics cards with gradient header
-- **Maps**: Interactive tracking interface with real-time updates
-- **Trip List**: Search functionality with professional trip cards
+*See complete screenshots in the [App Screenshots](#-app-screenshots) section above*
+
+- **Dashboard**: Professional statistics cards with gradient header and Egyptian data
+- **Live Tracking**: Interactive map with Smart Village to Cairo route simulation
+- **Trip History**: Advanced search functionality with Egyptian locations
 - **Trip Details**: Comprehensive analytics and export options
-- **Settings**: Organized configuration sections with toggle switches
+- **Settings**: Organized configuration sections with dark mode toggle
 
 ---
 
@@ -221,7 +247,7 @@ We welcome contributions! Please see our contributing guidelines:
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/VehicleTracker/issues)
 - **Documentation**: Check the `/docs` folder for detailed guides
-- **Email**: your.email@example.com
+- **Email**: abdullah.abdelhakeem25@gmail.com
 
 ---
 
