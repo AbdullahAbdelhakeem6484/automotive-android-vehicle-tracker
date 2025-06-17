@@ -221,7 +221,7 @@ gh repo create VehicleTracker --public --description "Professional Android Autom
 ### **Add Remote Origin**
 ```bash
 # Replace 'yourusername' with your actual GitHub username
-git remote add origin https://github.com/yourusername/VehicleTracker.git
+git remote add origin https://github.com/AbdullahAbdelhakeem6484/automotive-android-vehicle-tracker.git
 
 # Verify remote
 git remote -v
@@ -444,7 +444,7 @@ Your Vehicle Tracker repository is now live on GitHub and ready for:
 - **Code reviews**
 - **Professional showcases**
 
-**Repository URL**: `https://github.com/yourusername/VehicleTracker`
+**Repository URL**: `https://github.com/AbdullahAbdelhakeem6484/automotive-android-vehicle-tracker`
 
 ---
 

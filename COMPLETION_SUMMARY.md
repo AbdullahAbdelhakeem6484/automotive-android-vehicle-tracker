@@ -127,7 +127,7 @@ git commit -m "🚗 Initial commit: Vehicle Tracker Android Automotive App
 
 # 5. Create GitHub repository (via website or CLI)
 # 6. Add remote origin
-git remote add origin https://github.com/yourusername/VehicleTracker.git
+git remote add origin https://github.com/AbdullahAbdelhakeem6484/automotive-android-vehicle-tracker.git
 
 # 7. Push to GitHub
 git branch -M main
@@ -135,7 +135,7 @@ git push -u origin main
 ```
 
 ### **GitHub Repository Setup**
-1. **Create repository** on GitHub.com with name "VehicleTracker"
+1. **Create repository** on GitHub.com with name "automotive-android-vehicle-tracker"
 2. **Add description**: "Professional Android Automotive app for vehicle tracking and trip management. Built with Jetpack Compose, Material 3, and real-time interactive features."
 3. **Add topics**: android, kotlin, jetpack-compose, material-design, automotive, vehicle-tracking, portfolio, mobile-app
 4. **Set repository visibility** (public recommended for portfolio)

@@ -33,7 +33,7 @@ Vehicle Tracker is a modern Android Automotive application built with **Jetpack 
 
 > **Coming Soon**: Full demonstration video showcasing all features, Egyptian location integration, and Android Automotive optimization
 
-[![Video Placeholder](https://img.shields.io/badge/Demo%20Video-Coming%20Soon-blue?style=for-the-badge&logo=youtube)](https://github.com/yourusername/VehicleTracker)
+[![Video Placeholder](https://img.shields.io/badge/Demo%20Video-Coming%20Soon-blue?style=for-the-badge&logo=youtube)](https://github.com/AbdullahAbdelhakeem6484/automotive-android-vehicle-tracker)
 
 *Video will cover: Dashboard interactions, Live tracking simulation, Trip search functionality, Settings configuration, and Google Play Store publishing process*
 
@@ -127,8 +127,8 @@ app/src/main/java/com/automotive/vehicletracker/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/VehicleTracker.git
-cd VehicleTracker
+git clone https://github.com/AbdullahAbdelhakeem6484/automotive-android-vehicle-tracker.git
+cd automotive-android-vehicle-tracker
 ```
 
 2. **Set JAVA_HOME (if needed)**
@@ -245,8 +245,9 @@ We welcome contributions! Please see our contributing guidelines:
 
 ## 📞 **Support & Contact**
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/VehicleTracker/issues)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/AbdullahAbdelhakeem6484/automotive-android-vehicle-tracker/issues)
 - **Documentation**: Check the `/docs` folder for detailed guides
+- **Architecture Diagram**: [System Architecture on Drive](https://drive.google.com/file/d/1NGnvXd5ANTt2yRTIOSBLvSZN2JoCIykT/view?usp=sharing)
 - **Email**: abdullah.abdelhakeem25@gmail.com
 
 ---
