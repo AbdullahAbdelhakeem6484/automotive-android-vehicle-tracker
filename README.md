@@ -33,7 +33,7 @@ Vehicle Tracker is a modern Android Automotive application built with **Jetpack 
 
 > **Coming Soon**: Full demonstration video showcasing all features, Egyptian location integration, and Android Automotive optimization
 
-[![Video Placeholder](https://img.shields.io/badge/Demo%20Video-Here%-blue?style=for-the-badge&logo=youtube)](https://youtu.be/am2-xl6pmNE)
+[![Video Placeholder](https://img.shields.io/badge/Demo%20Video-Here%20-blue?style=for-the-badge&logo=youtube)](https://youtu.be/am2-xl6pmNE)
 
 *Video will cover: Dashboard interactions, Live tracking simulation, Trip search functionality, Settings configuration, and Google Play Store publishing process*
 
